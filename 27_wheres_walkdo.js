@@ -12,5 +12,5 @@ if(characters.includes("Waldo")) {
   const waldoIndex = characters.indexOf("Waldo");
   console.log(`Found Waldo at index ${waldoIndex}!`);
 } else {
-  console.log("Not found")
+  console.log("Not found") 
 }
