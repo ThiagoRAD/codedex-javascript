@@ -1,7 +1,7 @@
 const height = 1.80
 const weight = 75
 
-const bmi = weight / (height * height)
+const bmi = weight / (height ** 2)
 
 console.log("Height (m): " + height)
 console.log("Weight (kg): " + weight)
