@@ -4,4 +4,4 @@ function countdown() {
   }
   console.log("Blast Off! 🚀")
 }
-countdown
+countdown()
